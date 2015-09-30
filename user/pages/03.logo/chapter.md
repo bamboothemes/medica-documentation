@@ -4,14 +4,12 @@ taxonomy:
     category: docs
 ---
 
-# Font Panel
+# Logo Overview 
 
-Zen Grid Framework v4 based themes come with a wide range of options for using fonts in your website. 
+![Logo Font Color](/images/logo/logo-display.jpg)
+ 
 
-This section of the knowledgebase details how to:
 
-- Control the font fontsizes in your template
-- Use Google fonts
-- Use Tyepkit Fonts
-- Specify custom selectors for fonts
-- View custom fonts in your site's wysiwyg editor
+The logo in all Zen Grid Framework v4 themes is displayed via a custom html module published to the logo module position.
+
+This section outlines the markup required to recreate the display seen in the demo site as well as how to control the font size and color.

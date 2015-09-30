@@ -4,13 +4,9 @@ taxonomy:
     category: docs
 ---
 
-# Menu Panel
+# Extensions used on the demo site
 
-The menu panel in ZGFv4 based themes controls the behaviour of the menus on your site.
-
-This section details how to control:
-- Dropdown menus
-- Accordion Menus
-- Offcanvas Menus
-- Setup the one page functionality
-- Apply mega menu functionality via the Zenmenu plugin
+- Zentools2 (module + 2 plugins installed via a package)
+- Zenmenu (plugin)
+- Zen Shortcodes (plugin)
+- Maps2 (module)
