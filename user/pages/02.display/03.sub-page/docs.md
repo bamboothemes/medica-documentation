@@ -7,21 +7,11 @@ taxonomy:
 The Medica demo site shows a number of different sub page layouts however the standard layout uses the following layout.
 
 
-**Modules used**
-- Zentools2
-- Custom html module
-- Search Module
-- Breadcrumb
+**Modules used** -
+Zentools2 / Custom html module / Search Module / Breadcrumb
 
-**Positions used**
-- logo
-- top4
-- panel
-- menu
-- bannerextra
-- banner
-- breadcrumbs
-- sidebar2
+**Positions used** - 
+logo / top4 / panel / menu / banner / breadcrumbs / sidebar2
 
 ![Sub page](/images/sub-page/subpage-example.jpg)
 
