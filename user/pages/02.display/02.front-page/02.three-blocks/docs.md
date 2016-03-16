@@ -8,6 +8,8 @@ taxonomy:
 #### What is this?
 The three items that sit beneath the slideshow on the Medica frontpage is an instance of the Zentools2 module displaying items in a grid published to the grid1 position.
 
+**Please note that when adding new content to this area, you may run into a Joomla menu itemid issue. This issue can be seen when items are clicked on, the url changes in the browser window however the website appears to load the front page. If you are experiencing this issue please visit this tutorial on fixing the <a href="http://www.joomlabamboo.com/blog/how-to-joomla/how-to-avoid-the-joomla-menu-itemid-issue">Joomla menu item id issue</a>.**
+
 ![Zentools grid](/images/frontpage/three-items.jpg)
 
 The layout items being used are:
@@ -36,6 +38,9 @@ In addition to the above settings you need to apply two module classes to enhanc
 The demo uses the primary-row-nomargin style which uses the colour set in the @primary value at the top of the theme panel. 
 
 ![Comfort for you settings](/images/settings/row-style.jpg)
+
+
+
 
 
  

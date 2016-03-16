@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\Config',
-    'timestamp' => 1443343040,
-    'checksum' => 'ffa818d2ba2e0ce717b04af3a9b2881a',
+    'timestamp' => 1458168829,
+    'checksum' => '86db27b4c8cc92022bff0450ad6d2e81',
     'data' => [
         'streams' => [
             'schemes' => [
@@ -173,6 +173,14 @@ return [
                 'order' => [
                     'by' => 'date',
                     'dir' => 'desc'
+                ]
+            ],
+            'sitemap' => [
+                'enabled' => true,
+                'route' => '/sitemap',
+                'ignores' => [
+                    0 => '/blog/blog-post-to-ignore',
+                    1 => '/ignore-this-route'
                 ]
             ]
         ],
