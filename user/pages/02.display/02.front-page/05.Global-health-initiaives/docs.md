@@ -8,6 +8,8 @@ taxonomy:
 
 The 'Global Health Initiatives' module is a Zentools2 module assigned to the 'bottom1' position, using the 'stacked' layout and Joomla as a content source. In the quickstart package, the module is titled 'Global Health Initiatives' and has an id of 464.
 
+In the template settings, in the theme tab > row styles, the bottom row style is set to 'fullwidth' so that the module shows at 100% of the browser window.
+
 ##Overview
 
 ###Elements
