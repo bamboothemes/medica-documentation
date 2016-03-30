@@ -20,7 +20,8 @@ This module is a custom html module published to the grid8 module position.
 6. Ensure the module is published
 7. Give the module a title
 8. Set the module title to be hidden
-9. Save your new module.
+9. In the advanced tab, add a module class suffix of 'largeicons'
+10. Save your new module.
 
 #### Markup Used
 
